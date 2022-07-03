@@ -1,0 +1,598 @@
+    1  conda activate artificialintelligence22
+    2  python3.6 pacman.py 
+    3  python pacman.py −−layout testMaze −−pacman GoWestAgent
+    4  python3.6 pacman.py −−layout testMaze −−pacman GoWestAgent
+    5  code .
+    6  python pacman.py --layout testMaze --pacman GoWestAgent
+    7  python3.6 pacman.py --layout testMaze --pacman GoWestAgent
+    8  python3.6 pacman.py −−layout testMaze −−pacman GoWestAgent
+    9  python3.6 pacman.py --layout testMaze --pacman GoWestAgent
+   10  python pacman.py −−layout tinyMaze −−pacman GoWestAgent
+   11  python3.6 pacman.py −−layout tinyMaze −−pacman GoWestAgent
+   12  bash commands.txt 
+   13  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+   14  python pacman.py −l tinyMaze −p SearchAgent
+   15  nano ~/.bashrc 
+   16  source ~/.bashrc 
+   17  python pacman.py −l tinyMaze −p SearchAgent
+   18  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+   19  restartForce 
+   20  return 
+   21  restart
+   22  clear
+   23  cd
+   24  cd thomann/
+   25  ls
+   26  cd
+   27  snap refresh 
+   28  sudo snap refresh --list
+   29  sudo snap update
+   30  sudo htop
+   31  sudo apt update 
+   32  snap refresh 
+   33  sudo snap refresh
+   34  sudo apt upgrade
+   35  sudo snap refresh
+   36  sudo snap install code
+   37  sudo snap help refresh
+   38  sudo snap refresh code
+   39  sudo pkill 466749
+   40  sudo snap refresh code
+   41  sudo kill 466749
+   42  sudo snap refresh code
+   43  cd
+   44  python3.6
+   45  ls
+   46  cd projects/
+   47  git status
+   48  cd artificialinteligencess22/
+   49  ls
+   50  git status
+   51  git commit
+   52  git status
+   53  cd ..
+   54  ls
+   55  cd medusa/
+   56  ls
+   57  git status
+   58  git commit 
+   59  git status
+   60  cd ..
+   61  ls
+   62  zalandoTest/
+   63  ls
+   64  git status
+   65  cd zalandoTest/
+   66  ls
+   67  git status
+   68  cd zalando/
+   69  ls
+   70  git status
+   71  git commit 
+   72  git add 
+   73  git commit
+   74  git add .
+   75  git commit
+   76  git status
+   77  cd
+   78  cd projects/
+   79  ls
+   80  cd artificialinteligencess22/
+   81  ls
+   82  python3.
+   83  python3.6
+   84  cd zalando/python pacman.py −−layout tinyMaze −−pacman GoWestAgent
+   85  python pacman.py --layout tinyMaze --pacman GoWestAgent
+   86  cd Downloads/computergraphics/Blatt6/programmingTask/
+   87  javac GrafikDemoProgramm.java && java GrafikDemoProgramm 
+   88  htop
+   89  nordvpn c
+   90  nordvpn login
+   91  nordvpn c
+   92  nordvpn c US
+   93  node index.js 
+   94  nordvpn c US
+   95  nordvpn d
+   96  node index.js 
+   97  exit
+   98  ls
+   99  conda activate 
+  100  conda activate artificialintelligence22
+  101  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  102  conda activate artificialintelligence22
+  103  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  104  conda activate artificialintelligence22
+  105  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  106  [A
+  107  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  108  [A
+  109  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  110  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=depthFirstSearch
+  111  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=depthFirstSearch
+  112  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  113  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=depthFirstSearch
+  114  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  115  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=depthFirstSearch
+  116  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  117  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=depthFirstSearch
+  118  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  119  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=depthFirstSearch
+  120  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=depthFirstSearch
+  121  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  122  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=depthFirstSearch
+  123  python eightpuzzle.py
+  124  python pacman.py −l mediumMaze −p SearchAgent −a fn=bfs
+  125  python3.6 pacman.py −l mediumMaze −p SearchAgent −a fn=bfs
+  126  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  127  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  128  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=bfs
+  129  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  130  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=bfs
+  131  [A
+  132  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=bfs
+  133  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  134  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=bfs
+  135  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  136  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=bfs
+  137  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  138  python3.6 pacman.py -l bigMaze -p SearchAgent -a fn=bfs
+  139  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=bfs
+  140  git status
+  141  rm -rf .vscode/
+  142  git commit -am "algorithm for breath depth search; action generation missing"
+  143  git push
+  144  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  145  python pacman.py -l tinhDottedMaze -p StayEastSearchAgent
+  146  python pacman.py -l tinyDottedMaze -p StayEastSearchAgent
+  147  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  148  python pacman.py -l tinyDottedMaze -p StayEastSearchAgent
+  149  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  150  python pacman.py -l tinyDottedMaze -p StayEastSearchAgent
+  151  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  152  python pacman.py -l mediumDottedMaze -p StayWestSearchAgent
+  153  python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
+  154  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  155  python pacman.py -l mediumDottedMaze -p 
+  156  python pacman.py -l mediumDottedMaze 
+  157  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  158  python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
+  159  python pacman.py -l mediumDottedMaze -p StayWestSearchAgent
+  160  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  161  [A
+  162  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  163  [A
+  164  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  165  [A
+  166  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  167  exit
+  168  exitexit
+  169  exit
+  170  cd projects/artificialinteligencess22/
+  171  ls
+  172  history 
+  173  conda activate artificialintelligence22
+  174  sudo apt-get install network-manager-openconnect-gnome
+  175  nm-connection-editor 
+  176  code .
+  177  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  178  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  179  python pacman.py −l tinyMaze −p SearchAgent
+  180  python3.6 pacman.py −l tinyMaze −p SearchAgent
+  181  python3.6 pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
+  182  history 
+  183  git staus
+  184  git status
+  185  git commit -am "implementation of depth first search"
+  186  git push
+  187  git status
+  188  git commit -am "refactor common functions"
+  189  git push
+  190  history 
+  191  get https://raw.githubusercontent.com/sdushantha/tmpmail/master/tmpmail
+  192  qget https://raw.githubusercontent.com/sdushantha/tmpmail/master/tmpmail
+  193  wget https://raw.githubusercontent.com/sdushantha/tmpmail/master/tmpmail
+  194  ls
+  195  git status
+  196  rm tmpmail 
+  197  cd
+  198  cd Downloads/
+  199  wget https://raw.githubusercontent.com/sdushantha/tmpmail/master/tmpmail
+  200  vim tmpmail 
+  201  chmod -v +x tmpmail 
+  202  ./tmpmail --generate
+  203  w3m
+  204  sudo apt-get install w3m
+  205  jq
+  206  sudo apt-get install jq
+  207  ls
+  208  ./tmpmail --generate
+  209  tmpmail
+  210  ./tmpmail 
+  211  ./tmpmail  206139837
+  212  ls
+  213  open .
+  214  cd
+  215  cd projects/artificialinteligencess22/
+  216  git pull
+  217  git status
+  218  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  219  clear
+  220  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  221  ython pacman.py -l mediumDottedMaze -p StayEastSearchAgentpython pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  222  python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  223  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  224  python pacman.py -l mediuMaze -p SearchAgent -a fn=ucs
+  225  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  226  python pacman.py -l mediumDottedMaze 
+  227  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  228  python pacman.py -l mediumDottedMaze -p StayWestSearchAgent
+  229  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  230  clear
+  231  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  232  clear
+  233  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  234  clear
+  235  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  236  clear
+  237  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  238  clear
+  239  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  240  clear
+  241  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  242  clear
+  243  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  244  clear
+  245  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  246  clear
+  247  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  248  clear
+  249  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  250  python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
+  251  python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  252  git status
+  253  git commit -am "uniform cost search solution"
+  254  git push
+  255  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  256  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  257  python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
+  258  python pacman.py -l mediumDottedMaze -p StayWestSearchAgent
+  259  python autograder.py −q q1
+  260  python autograder.py -q q1
+  261  python autograder.py 
+  262  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  263  python autograder.py 
+  264  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  265  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  266  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  267  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  268  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  269  clear
+  270  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  271  git status
+  272  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  273  git status
+  274  ggit commit -am "Greedy best first search"
+  275  git push
+  276  git commit -am "Greedy best first search"
+  277  git push
+  278  python pacman.py -l mediumDottedMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  279  python pacman.py -l mediumScaryMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  280  python pacman.py -l mediumDottedMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  281  git status
+  282  git commit -am "greedy search with different heuristics"
+  283  git push
+  284  python pacman.py -l mediumDottedMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  285  python pacman.py -l mediumMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  286  python pacman.py -l mediumDottedMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  287  python pacman.py -l mediumScaryMaze -p SearchAgent -a fn=GreedyBestFirstSearch
+  288  git commit -am "greedy search with different heuristics only with cost "
+  289  git push
+  290  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  291  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  292  python pacman.py -l tinyMaze -p SearchAgent
+  293  python pacman.py -l mediumMaze -p SearchAgent
+  294  python pacman.py -l bigMaze -z .5 -p SearchAgent
+  295  push
+  296  git push
+  297  git pushpython pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  298  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  299  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar 
+  300  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  301  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar
+  302  clear
+  303  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  304  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic
+  305  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar
+  306  python pacman.py -l bigMaze -z .5 -p StayWestSearchAgent -a  
+  307  python pacman.py -l bigMaze -z .5 -p StayWestSearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  308  python pacman.py -l bigMaze -z .5 -p StayWestSearchAgent -a fn=asta
+  309  python pacman.py -l bigMaze -z .5 -p StayWestSearchAgent -a fn=astar
+  310  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  311  python pacman.py -l bigMaze -z .5 -p StayWestSearchAgent -a fn=astar
+  312  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar
+  313  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  314  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar
+  315  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+  316  python autograder.py 
+  317  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+  318  ython pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+  319  python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+  320  python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  321  python pacman.py -l openMaze -p SearchAgent -a fn=ucs
+  322  python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+  323  python pacman.py -l openMaze -p SearchAgent -a fn=bfs -z .5
+  324  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  325  python pacman.py -l openMaze -p SearchAgent -a fn=bfs
+  326  python eightpuzzle.py
+  327  python pacman.py -l tinyMaze -p SearchAgent
+  328  python pacman.py -l openMaze -p SearchAgent
+  329  python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  330  python pacman.py -l openMaze -p SearchAgent -a fn=ucs
+  331  python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+  332  python pacman.py -l openMaze -z .5 -p SearchAgent -a fn=astar,heuristic=euclideanHeuristic
+  333  git status
+  334  git commit -am "a star"
+  335  git push
+  336  python pacman.py −l tinyCorners −p SearchAgent −a fn=bfs,prob=CornersProblem
+  337  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  338  python pacman.py −l tinyCorners −p SearchAgent −a fn=bfs,prob=CornersProblem
+  339  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  340  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  341  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  342  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  343  python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+  344  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  345  python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+  346  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  347  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  348  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  349  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  350  python autograder.py 
+  351  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  352  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  353  python pacman.py -l bigMaze -z .5 -p SearchAgent
+  354  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  355  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  356  python3.6 pacman.py -l mediumMaze -p SearchAgent -a fn=bfspython pacman.py
+  357  python pacman.py --layout testMaze --pacman GoWestAgent
+  358  python pacman.py --layout tinyMaze --pacman GoWestAgent
+  359  python pacman.py
+  360  python pacman.py --layout testMaze --pacman GoWestAgent
+  361  python pacman.py --layout tinyMaze --pacman GoWestAgent
+  362  python pacman.py -h
+  363  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  364  python pacman.py -l tinyMaze -p SearchAgent
+  365  python pacman.py -l mediumMaze -p SearchAgent
+  366  python pacman.py -l bigMaze -z .5 -p SearchAgent
+  367  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  368  python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+  369  python eightpuzzle.py
+  370  python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  371  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  372  python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
+  373  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  374  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  375  python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblempython pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  376  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  377  python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblempython pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  378  python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblempython pacman.py -l mediumCorners -p -p SearchAgent -a fn=aStarSearch ,prob=CornersProblem ,heuristic=cornersHeuristic -z 0.5
+  379  python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblempython pacman.py -l mediumCorners -p SearchAgent -a fn=aStarSearch ,prob=CornersProblem ,heuristic=cornersHeuristic -z 0.5
+  380  python pacman.py -l testSearch -p AStarFoodSearchAgent
+  381  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  382  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  383  python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  384  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  385  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  386  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  387  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  388  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  389  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  390  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  391  history 
+  392  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  393  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  394  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  395  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  396  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  397  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  398  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  399  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  400  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  401  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  402  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  403  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  404  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  405  clear
+  406  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  407  ['North', 'East', 'East', 'East', 'East', 'North', 'North', 'West', 'West', 'West', 'West', 'North', 'North', 'North', 'North', 'North', 'North', 'West', 'West', 'West', 'West', 'North', 'North']
+  408  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  409  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  410  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  411  g
+  412  fg
+  413  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  414  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  415  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  416  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  417  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  418  clear
+  419  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  420  clear
+  421  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  422  clear
+  423  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  424  clear
+  425  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  426  clear
+  427  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  428  clear
+  429  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  430  clear
+  431  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  432  clear
+  433  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  434  git status
+  435  open .
+  436  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  437  python pacman.py -l tinyMaze -p SearchAgent -a fn=tinyMazeSearch
+  438  python pacman.py -l tinyMaze -p SearchAgent
+  439  python pacman.py -l mediumMaze -p SearchAgent
+  440  python pacman.py -l bigMaze -z .5 -p SearchAgent
+  441  python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+  442  python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+  443  python eightpuzzle.py
+  444  python pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
+  445  python pacman.py -l mediumDottedMaze -p StayEastSearchAgent
+  446  python pacman.py -l mediumScaryMaze -p StayWestSearchAgent
+  447  python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
+  448  python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  449  python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+  450  python pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+  451  exit
+  452  htop
+  453  cd
+  454  cd projects/
+  455  ls
+  456  mkdir seleniumAutoLiker
+  457  cd seleniumAutoLiker/
+  458  ls
+  459  npm init
+  460  npm install selenium-webdriver
+  461  cd
+  462  cd Downloads/
+  463  ls
+  464  cd chromedriver_linux64/
+  465  ls
+  466  chmod +x chromedriver 
+  467  ./chromedriver 
+  468  echo $PATH
+  469  echo 'export PATH=$PATH:/home/aryo/Downloads/chromedriver_linux64/chromedriver' >> ~/.bash_profile
+  470  source ~/.bash_profile 
+  471  echo 'export PATH=$PATH:/home/aryo/Downloads/chromedriver_linux64/chromedriver' >> ~/.bashrc
+  472  source ~/.bashrc 
+  473  echo 'export PATH=$PATH:/home/aryo/Downloads/chromedriver_linux64/' >> ~/.bashrc
+  474  source ~/.bashrc 
+  475  chromedriver
+  476  nano ~/.bashrc 
+  477  chromedriver
+  478  cd
+  479  cd projects/seleniumAutoLiker/
+  480  ls
+  481  nano index.js
+  482  code .
+  483  adb devices
+  484  adb input tap 300 1200
+  485  adb shell input tap 300 1200
+  486  adb shell input tap 500 2200
+  487  adb shell input tap 500 2000
+  488  adb shell input tap 500 1800
+  489  adb shell wm size
+  490  adb shell input tap 700 2300
+  491  ls
+  492  nano swiper.sh
+  493  sh swiper.sh 
+  494  nano swiper.sh
+  495  sh swiper.sh 
+  496  nano swiper.sh
+  497  sh swiper.sh 
+  498  nano swiper.sh
+  499  sh swiper.sh 
+  500  exit
+  501  restart
+  502  cd
+  503  cd Downloads/
+  504  ls
+  505  cd
+  506  cd projects/
+  507  ls
+  508  cd artificialinteligencess22/
+  509  ls
+  510  git status
+  511  open .
+  512  ls *.zip
+  513  rm `ls *.zip`
+  514  ls
+  515  git status
+  516  rm explain.pdf 
+  517  git add .
+  518  git commit -am "last state"
+  519  gitpush
+  520  git push
+  521  ls
+  522  mkdir Project1
+  523  mv ./* Project1/
+  524  ls
+  525  ls -la
+  526  git status
+  527  git add .
+  528  git comit -am "move stuff to project 1 forlder"
+  529  git push
+  530  mkdir Project2
+  531  cd Project2
+  532  ls
+  533  mv ~/Downloads/
+  534  mv ~/Downloads/pacman.ipynb .
+  535  ls
+  536  cd ..
+  537  git add .
+  538  git commit -am "project 2 initial file"
+  539  git push
+  540  ls
+  541  open .
+  542  code .
+  543  pip install -U gym>=0.21.0
+  544  sudo snap install kdenlive
+  545  kdenlive 
+  546  sudo snap install shotcut --classic
+  547  shotcut
+  548  cd
+  549  cd Downloads/
+  550  ls
+  551  cp Telegram\ Desktop/IMG_4400.MOV ../Videos/a
+  552  ls
+  553  cd
+  554  cd Videos/
+  555  ls
+  556  cd a/
+  557  ls
+  558  mv IMG_4400.MOV ..
+  559  cd ..
+  560  ls
+  561  ffmffmpeg -i input.mp4 -c:v libvpx-vp9 -c:a libopus output.webm
+  562  ffmpeg -i input.mp4 -c:v libvpx-vp9 -c:a libopus output.webm
+  563  sudo apt-get install ffmpeg
+  564  ffmpeg -i input.mp4 -c:v libvpx-vp9 -c:a libopus output.webm
+  565  ffmpeg -i IMG_4400.MOV -c:v libvpx-vp9 -c:a libopus output.webm
+  566  ffmpeg -i output.webm -ss  00:06:00 -t 00:08:00 -c:v copy -c:a copy output1.mp4
+  567  ffmpeg -i output.webm -ss  00:06:00 -t 00:08:00 -c:v copy -c:a copy output1.webm
+  568  ffmpeg -i IMG_4400.MOV -ss  00:06:00 -t 00:08:00 -c:v copy -c:a copy output1.mp4
+  569  ffmpeg -i IMG_4400.MOV -ss  00:06:00 -t 00:08:00 -c:v copy -c:a copy output1.MOV
+  570  ffmpeg -ss 00:06:00 -i IMG_4400.MOV -c copy -t 00:08:00 output1.MOV
+  571  ffmpeg -ss 6 -i IMG_4400.MOV -c copy -t 8 output1.MOV
+  572  ffmpeg -ss 6 -i IMG_4400.MOV -c copy -t 2 output1.MOV
+  573  ffmpeg -ss 5.5 -i IMG_4400.MOV -c copy -t 2 output1.MOV
+  574  ffmpeg -ss 5.5 -i IMG_4400.MOV -c copy -t 2.5 output1.MOV
+  575  ffmpeg -i input.mp4 -c:v libvpx-vp9 -c:a libopus output.webm
+  576  ffmpeg -i output1.MOV -c:v libvpx-vp9 -c:a libopus output.webm
+  577  ffmpeg -i output.webm -c  -an output-nosound.webm
+  578  ffmpeg -i output.webm -c copy -an output-nosound.webm
+  579  ffmpeg -i <input> -filter:v fps=fps=30 <output>
+  580  ffmpeg -i output-nosound.webm -filter:v fps=fps=30 output-nosound.webm 
+  581  ffmpeg -i output-nosound.webm -filter:v fps=fps=30 output-nosound1.webm 
+  582  ffmpeg -i output-nosound1.webm -s 512x910 -c:a copy output-nosound2.webm
+  583  ffmpeg -i output-nosound1.webm -s 300x512 -c:a copy output-nosound2.webm
+  584  history 
+  585  cd max/
+  586  ffmpeg -i doc_2022-07-01_01-44-25.mp4 -c:v libvpx-vp9 -c:a libopus -filter:v fps=fps=30 output.webm
+  587  cd max/
+  588  history 
+  589  ffmpeg -i output.webm -c copy -an output-nosound.webm
+  590  ffmpeg -i output-nosound.webm -s 300x512 -c:a copy output-nosound2.webm
+  591  ffmpeg -i output-nosound.webm -s 512x512 -c:a copy output-nosound2.webm
+  592  history 
+  593  ffmpeg -i output-nosound.webm -vf scale=512:-1 -c:a copy output-nosound2.webm
+  594  ffmpeg -i output-nosound.webm -vf scale=-1:512 -c:a copy output-nosound2.webm
+  595  ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of default=nw=1 output-nosound.webm 
+  596  Shutdown 
+  597  cd Desktop/
+  598  history >> history.txt
